@@ -1,24 +1,3 @@
-ಆಗದು ಎಂದು ಕೈಕಟ್ಟಿ ಕುಳಿತರೆ
+hi this is master file
 
-ಇವತ್ತಿನ ಡೈಲಿ ಕ್ಲೌಡ್ ಎಂಡ್ DevOps Live ಕ್ಲಾಸ್  git & github ಬೇಸಿಕ್ ಮೇಲೆ ಇರುತ್ತೆ.
-
-ಮಿಸ್ ಮಾಡ್ಕೋಬೇಡಿ, ತಪ್ಪದೆ ನೀವು ಜಾಯಿನ್ ಆಗಿ .
-
-
-
-ನಮ್ಮವರಾದ @ ನವರು ಈ ಸೆಶನ್ ಅನ್ನು ತಗೊಳ್ಳುತ್ತಾರೆ .
-
-
-
-
-ಫ್ರೀ ಡೈಲಿ ಕ್ಲೌಡ್ ಎಂಡ್ DevOps Live ಕ್ಲಾಸ್
-
-ಲಿನೆಕ್ಸ್ ಬೇಸಿಕ್ ಕಮಾಂಡ್ಸ್  ಪ್ರಾಕ್ಟೀಸ್ ಸೆಷನ್ - ೦೬
- 
-ನಮ್ಮವರಾದ @ ನವರು ಈ ಸೆಶನ್ ಅನ್ನು ತಗೊಳ್ಳುತ್ತಾರೆ .
-
-
-Monday, January 15 · 7:00 – 7:30 pm
-Google Meet joining info
-Video call link: https://meet.google.com/gen-bnbw-cpz
-
+I have cut my branch from master
